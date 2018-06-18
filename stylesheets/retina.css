@@ -1,0 +1,9 @@
+@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+	.searchBox .submit { background: #fff url(../images/search@2x.png); background-size: 36px; } 
+	.filterBox h3, .toon .filter h3 { background: url(../images/help@2x.png) right center no-repeat; background-size: 28px;   } 
+	.shoppingBox select, .textinfoBox select  { background: #fff url(../images/arrow@2x.png) right center no-repeat; background-size: 14px; }
+	.linkBox a { background: url(../images/icon-home@2x.jpg) left center no-repeat; background-size: 34px;  }
+	.linkBox a.icon { background-image: url(../images/icon-image@2x.jpg) ; background-size: 34px;  }
+	.linkBox a.icon1 { background-image: url(../images/icon-loc@2x.jpg); background-size: 34px;  }
+	
+}
